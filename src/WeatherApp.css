@@ -1,0 +1,21 @@
+/* WeatherApp.css */
+.WeatherApp {
+  position: relative;
+  top: 0;              /* stick to the top */
+  left: 0;
+  width: 100%;
+  padding: 16px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;  /* center items horizontally */
+  justify-content: flex-start; /* align items to the top */
+  
+  font-family: Arial, sans-serif;
+  /* background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: #fff; */
+  color: black;
+  background-color: rgb(226, 212, 244);
+  min-height: 100vh;   /* full screen height */
+}
+

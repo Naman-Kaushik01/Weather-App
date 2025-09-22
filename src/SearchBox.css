@@ -1,0 +1,18 @@
+.SearchBox {
+  text-align: center;
+  padding: 20px;        /* some spacing inside */
+  border-radius: 8px;   /* optional: rounded corners */
+  display: inline-block; /* shrink box to fit content */
+  color: black;
+}
+
+
+/* This centers the box on the screen */
+body {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  align-items: center;
+  height: 100%;   /* take full screen height */
+  margin: 0;       /* remove default browser margin */
+}
