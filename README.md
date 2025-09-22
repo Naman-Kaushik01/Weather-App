@@ -26,7 +26,7 @@ Users can search for any city around the world and get instant updates about:
 ---
 
 ## 📸 Screenshots
-(Add screenshots or GIFs of your app here)
+![Weather App Screenshot](https://github.com/Naman-Kaushik01/Weather-App/blob/main/app%20-%20preview.png)
 
 ---
 
